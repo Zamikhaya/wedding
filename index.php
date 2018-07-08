@@ -81,7 +81,7 @@
 						<li class="active"><a href="index.php">Home</a></li>
 						<li><a href="about.php">Story</a></li>
 						<li><a href="services.php">Registry</a></li>
-						<li><a <href="#">Gallery</a></li>
+						<li><a <href="gallery.html">Gallery</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
